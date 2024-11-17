@@ -8,3 +8,11 @@ Tier Architecture explanation
 2. Application Server: This middle part manages the business logic and processes user actions. For example, it checks the inventory to see if a product is in stock or updates a user's account details.
 
 3. Database Server: This is the back-end part that stores all the data for the application. It uses databases like MySQL or PostgreSQL to keep track of information.
+
+
+
+Step 1. Create a EKS Cluster 
+![image](https://github.com/user-attachments/assets/71a68e39-436b-4a25-b7f5-aa59a9ea353e)
+
+![image](https://github.com/user-attachments/assets/e432995a-828a-442b-a026-38241eaaf306)
+
