@@ -18,3 +18,19 @@ Step 1. Create a EKS Cluster
 
 ![image](https://github.com/user-attachments/assets/4d7c3cea-d2fd-4bb9-a0d9-9182bc453188)
 
+![image](https://github.com/user-attachments/assets/97e45c0f-3789-42fa-b924-915c59c8bcc2)
+
+![image](https://github.com/user-attachments/assets/1cbb1277-a471-4e28-ba2e-7b19ad703c18)
+
+
+![image](https://github.com/user-attachments/assets/b6c76919-b1bd-450e-ae30-68c04b5b0953)
+
+![image](https://github.com/user-attachments/assets/517ed319-5b3c-4b10-8106-927ee78e8785)
+
+![image](https://github.com/user-attachments/assets/04a7367b-ef48-4464-866b-1aebe770c281)
+
+![image](https://github.com/user-attachments/assets/d255c0f4-29b4-44d3-bd0d-87b9a53bf80b)
+
+
+![image](https://github.com/user-attachments/assets/ada149b7-a1cf-41aa-9fe8-9742ce659d86)
+
